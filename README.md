@@ -31,5 +31,18 @@ Actual part prices so you know how much to cry when you go to the shop.
 
 More models and "horror stories" from the German car world.
 
+
+🚀 How to run it locally
+Since this app relies on a custom database, you need to grab both files:
+
+1. Download rservice.py and data.py.
+
+2. Make sure they are in the same folder.
+
+3. Install Streamlit: pip install streamlit.
+
+4. Run it: streamlit run rservice.py.
+
+
 📬 Talk to me
 If you’ve got an E60, a W211, or an A6 and you found a bug (or just want to talk shop), hit me up: nrarress@gmail.com.
